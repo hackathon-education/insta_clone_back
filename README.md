@@ -1,4 +1,4 @@
-# Hack Play - FE
+# Insta Clone - BE
 
 Insta_clone의 백엔드 저장소입니다.  
 **SpringBoot + MongoDB + Maven** 기반으로 개발하고 있습니다.
